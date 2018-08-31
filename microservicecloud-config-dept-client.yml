@@ -35,7 +35,7 @@ eureka:
       prefer-ip-address: true 
 
 info: 
-   app.name: gjk-microservicecloud-springcloudconfg01  
+   app.name: gjk-microservicecloud-springcloudconfig01  
    company-name: www.gjk.com 
    build.artifactId: $project.artifactId$ 
    build.version: $project.version$ 
@@ -72,7 +72,7 @@ eureka:
       prefer-ip-address: true 
 
 info: 
-   app.name: gjk-microservicecloud-springcloudconfg02  
+   app.name: gjk-microservicecloud-springcloudconfig02  
    company-name: www.gjk.com 
    build.artifactId: $project.artifactId$ 
    build.version: $project.version$ 
